@@ -22,9 +22,9 @@
 *(Pin these repos in your profile's "Popular repositories" section so they auto-display)*
 
 ## 📈 GitHub Stats
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-kashyap&show_icons=true&theme=radical)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=check1379&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayush-kashyap&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=check1379&theme=radical)
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayush-kashyap-593b9b28a/)

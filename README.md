@@ -1,11 +1,11 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Ayush Kashyap 👋
 
 🚀 Aspiring **Machine Learning / AI Engineer** building practical, end-to-end AI systems — from classical ML to modern GenAI applications.
 
 ## 🔭 Currently Working On
-- Deepening expertise in **Machine Learning, Deep Learning & NLP**
-- Building hands-on projects in **Generative AI, RAG (Retrieval-Augmented Generation)** and **AI Agents**
-- Learning **cloud deployment (AWS)** for production-ready ML/AI systems
+- Wrapping up core **Machine Learning, Deep Learning & NLP**
+- Diving next into **Generative AI, RAG (Retrieval-Augmented Generation)** and **AI Agents**
+- Learning **cloud deployment (AWS)** to ship production-ready ML/AI systems
 
 ## 🧠 Tech Stack
 **Languages:** Python, SQL  
@@ -15,19 +15,20 @@
 **Tools:** Git, GitHub, Jupyter, VS Code
 
 ## 📌 Featured Projects
-- 🔹 *[Project Name]* — Short one-line impact statement (e.g., "Built a sentiment classifier with 92% accuracy on X dataset")
+- 🔹 *[Project Name]* — one-line impact statement (e.g., "Built a sentiment classifier with 92% accuracy on X dataset")
 - 🔹 *[Project Name]* — "Built a RAG-based Q&A bot over PDFs using LangChain + FAISS"
 - 🔹 *[Project Name]* — "Deployed an ML model as a REST API on AWS"
 
-*(Pin these repos in the "Popular repositories" section so they show up here automatically)*
+*(Pin these repos in your profile's "Popular repositories" section so they auto-display)*
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-kashyap&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayush-kashyap&theme=radical)
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:your-email)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayush-kashyap-593b9b28a/)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:ayushkashyap0109@gmail.com)
 
 ---
 ⭐️ Open to internships/roles in **Machine Learning, Data Science, and AI Engineering**
